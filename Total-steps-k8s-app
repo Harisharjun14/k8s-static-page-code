@@ -225,7 +225,7 @@ pipeline {
 }
 
 
-7)After successfully running the pipeline, NLB will be reated automatically
+7)After successfully running the pipeline, NLB will be created automatically
  
  Create record set In Route-53 (record will be same as in the ingress.yaml file)
 
